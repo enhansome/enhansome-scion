@@ -1,0 +1,402 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "scionproto/scion",
+          "description": "The open-source implementation of SCION.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T14:59:01Z",
+            "owner": "scionproto",
+            "repo": "scion",
+            "stars": 561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tofino-scion-br",
+          "description": "SCION border router in P4 with support for AES accelerators. :wrench:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-25T19:30:59Z",
+            "owner": "netsys-lab",
+            "repo": "scion-p4",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scion-ca",
+          "description": "SCION Control Plane PKI implementation based on smallstep/step-ca.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-03-20T08:51:55Z",
+            "owner": "netsys-lab",
+            "repo": "scion-ca",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bootstrapper",
+          "description": "SCION endhost autoconfiguration tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-09-23T14:32:06Z",
+            "owner": "netsec-ethz",
+            "repo": "bootstrapper",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "step-scion-plugin",
+          "description": "SCION Control Plane PKI plugin for smallstep/cli :wrench: :construction:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-08T22:46:41Z",
+            "owner": "scionproto-contrib",
+            "repo": "step-scion-plugin",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Infrastructure"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "scion-apps",
+          "description": "Miscellaneous SCION demo applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-09T02:10:52Z",
+            "owner": "netsec-ethz",
+            "repo": "scion-apps",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bittorrent-over-scion",
+          "description": "Path-aware BitTorrent client running on SCION.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-10-07T17:36:11Z",
+            "owner": "netsys-lab",
+            "repo": "bittorrent-over-scion",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scion-browser-extension",
+          "description": "SCION support for Chrome/Firefox :wrench: (docs).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-11T13:01:26Z",
+            "owner": "scionproto-contrib",
+            "repo": "browser-extension",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hercules",
+          "description": "High speed bulk data transfer application. :wrench:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-04-17T10:46:27Z",
+            "owner": "netsec-ethz",
+            "repo": "hercules",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ioq3-scion",
+          "description": "Quake III with SCION networking. :boom:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-12-14T22:14:51Z",
+            "owner": "lschulz",
+            "repo": "ioq3-scion",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "multiping",
+          "description": "A tool to measure latency on multiple paths to multiple destinations. :wrench:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-04T11:13:43Z",
+            "owner": "netsec-ethz",
+            "repo": "scion-java-multiping",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HTTP proxy",
+          "description": "SCION enabled HTTP Forward/Reverse proxy :wrench:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-18T15:48:47Z",
+            "owner": "scionproto-contrib",
+            "repo": "http-proxy",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jpan-cli",
+          "description": "A stand-alone tool for ping, traceroute, showpaths, address, etc. Based on jpan. :wrench:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-03T14:19:18Z",
+            "owner": "netsec-ethz",
+            "repo": "jpan-cli",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nats-server",
+          "description": "NATS server with SCION networking. :wrench: :construction:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-12-18T02:12:23Z",
+            "owner": "MartincoitNetworks",
+            "repo": "nats-server",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spate",
+          "description": "Multipath traffic generator and bandwidth tester. :wrench:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-05-08T07:56:57Z",
+            "owner": "netsys-lab",
+            "repo": "scion-apps",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nats-client",
+          "description": "Simple NATS client for SCION Enabled NATS servers. :wrench: :construction:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-12-18T02:14:49Z",
+            "owner": "MartincoitNetworks",
+            "repo": "scion-nats.go",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Applications"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "parts",
+          "description": "Path-aware Reliable Transport over SCION. :wrench:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-05-22T13:54:26Z",
+            "owner": "netsys-lab",
+            "repo": "parts",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scion-path-discovery",
+          "description": "Multipath library for SCION.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-01-15T15:36:44Z",
+            "owner": "netsys-lab",
+            "repo": "scion-path-discovery",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Go"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pan-lua",
+          "description": "Lua-scriptable path selector interface to pan.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-04-02T20:23:48Z",
+            "owner": "netsys-lab",
+            "repo": "pan-lua",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pan-bindings",
+          "description": "C, C++, and Python bindings for pan.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-06-19T15:20:29Z",
+            "owner": "lschulz",
+            "repo": "pan-bindings",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "snet-bindings",
+          "description": "C and C++ bindings for snet. :wrench:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-05-21T20:31:22Z",
+            "owner": "lschulz",
+            "repo": "snet-bindings",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Bindings"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SEED Emulator",
+          "description": "SEED Security Labs network emulator supports SCION.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T12:08:58Z",
+            "owner": "seed-labs",
+            "repo": "seed-emulator",
+            "stars": 284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scapy-scion-int",
+          "description": "Scapy layers for SCION.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-16T18:03:47Z",
+            "owner": "lschulz",
+            "repo": "scapy-scion-int",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tofino-pktgen",
+          "description": "SCION packet generator for Intel Tofino 2 switches.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-25T19:30:59Z",
+            "owner": "netsys-lab",
+            "repo": "scion-p4",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ietf-scion-testbed",
+          "description": "Ansible/Proxmox deployment of a 12-AS SCION testbed with parallel BGP/IP routing, link shaping and a monitoring dashboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-24T11:13:36Z",
+            "owner": "netsys-lab",
+            "repo": "ietf-scion-testbed",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "[1]: ISD and AS numbers assignments are currently managed by Anapaya. This will be handed over to a vendor-neutral governance body, like the regional internet registries or the SCION Association, as soon as possible.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:09:49.428Z",
+    "original_repository": "scionproto/awesome-scion",
+    "original_repository_sha": "06828249764abb757925ff3f2ebed4168d3b3dcb",
+    "enhanced_repository": "enhansome/enhansome-scion",
+    "enhanced_repository_description": null,
+    "title": "Awesome SCION with stars"
+  }
+}
