@@ -185,7 +185,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-03T14:19:18Z",
+            "last_commit": "2026-08-14T12:53:54Z",
             "owner": "netsec-ethz",
             "repo": "jpan-cli",
             "stars": 1
@@ -392,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T04:25:26.727Z",
+    "last_updated": "2026-08-15T03:20:25.728Z",
     "original_repository": "scionproto/awesome-scion",
     "original_repository_sha": "06828249764abb757925ff3f2ebed4168d3b3dcb",
     "enhanced_repository": "enhansome/enhansome-scion",

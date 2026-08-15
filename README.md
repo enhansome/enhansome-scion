@@ -1,6 +1,6 @@
 # Awesome SCION with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,464 | 🐛 99 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,831 | 🐛 100 | 📅 2026-06-30
 [![Slack chat](https://img.shields.io/badge/chat%20on-slack-blue?logo=slack)](https://scionproto.slack.com)
 [![Matrix chat](https://img.shields.io/badge/chat%20on-matrix-blue?logo=matrix)](https://matrix.to/#/#scion:matrix.scion.org)
 [![SCION Association](https://img.shields.io/badge/SCION-Association-white)](https://www.scion.org)
@@ -33,7 +33,7 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 * [ioq3-scion](https://github.com/lschulz/ioq3-scion) ⭐ 2 | 🐛 0 | 🌐 C | 📅 2024-12-14 - Quake III with SCION networking. :boom:
 * [multiping](https://github.com/netsec-ethz/scion-java-multiping) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2026-05-04 - A tool to measure latency on multiple paths to multiple destinations. :wrench:
 * [HTTP proxy](https://github.com/scionproto-contrib/http-proxy) ⭐ 1 | 🐛 1 | 🌐 Go | 📅 2026-05-18 - SCION enabled HTTP Forward/Reverse proxy :wrench:
-* [jpan-cli](https://github.com/netsec-ethz/jpan-cli) ⭐ 1 | 🐛 1 | 🌐 Java | 📅 2026-08-03 - A stand-alone tool for ping, traceroute, showpaths, address, etc. Based on jpan. :wrench:
+* [jpan-cli](https://github.com/netsec-ethz/jpan-cli) ⭐ 1 | 🐛 1 | 🌐 Java | 📅 2026-08-14 - A stand-alone tool for ping, traceroute, showpaths, address, etc. Based on jpan. :wrench:
 * [nats-server](https://github.com/MartincoitNetworks/nats-server) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2023-12-18 - [NATS](https://nats.io/) server with SCION networking. :wrench: :construction:
 * [spate](https://github.com/netsys-lab/scion-apps/tree/tool/spate-bpf/spate) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2025-05-08 - Multipath traffic generator and bandwidth tester. :wrench:
 * [nats-client](https://github.com/MartincoitNetworks/scion-nats.go) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2023-12-18 - Simple [NATS](https://nats.io/) client for SCION Enabled NATS servers. :wrench: :construction:
@@ -57,7 +57,7 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 
 ##### Java
 
-* [jpan](https://github.com/scionproto-contrib/jpan) ⭐ 5 | 🐛 12 | 🌐 Java | 📅 2026-08-12 - Java SCION application library. :wrench:
+* [jpan](https://github.com/scionproto-contrib/jpan) ⭐ 5 | 🐛 12 | 🌐 Java | 📅 2026-08-14 - Java SCION application library. :wrench:
 
 ##### Rust
 
@@ -114,4 +114,4 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
