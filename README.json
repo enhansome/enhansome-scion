@@ -123,20 +123,6 @@
         },
         {
           "node_type": "item",
-          "title": "hercules",
-          "description": "High speed bulk data transfer application. :wrench:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-04-17T10:46:27Z",
-            "owner": "netsec-ethz",
-            "repo": "hercules",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
           "title": "ioq3-scion",
           "description": "Quake III with SCION networking. :boom:",
           "children": [],
@@ -146,6 +132,20 @@
             "last_commit": "2024-12-14T22:14:51Z",
             "owner": "lschulz",
             "repo": "ioq3-scion",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hercules",
+          "description": "High speed bulk data transfer application. :wrench:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-04-17T10:46:27Z",
+            "owner": "netsec-ethz",
+            "repo": "hercules",
             "stars": 2
           }
         },
@@ -392,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T03:20:25.728Z",
+    "last_updated": "2026-08-16T03:29:04.808Z",
     "original_repository": "scionproto/awesome-scion",
     "original_repository_sha": "06828249764abb757925ff3f2ebed4168d3b3dcb",
     "enhanced_repository": "enhansome/enhansome-scion",
