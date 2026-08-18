@@ -33,20 +33,6 @@
         },
         {
           "node_type": "item",
-          "title": "scion-ca",
-          "description": "SCION Control Plane PKI implementation based on smallstep/step-ca.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-03-20T08:51:55Z",
-            "owner": "netsys-lab",
-            "repo": "scion-ca",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
           "title": "bootstrapper",
           "description": "SCION endhost autoconfiguration tool.",
           "children": [],
@@ -56,6 +42,20 @@
             "last_commit": "2025-09-23T14:32:06Z",
             "owner": "netsec-ethz",
             "repo": "bootstrapper",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scion-ca",
+          "description": "SCION Control Plane PKI implementation based on smallstep/step-ca.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-03-20T08:51:55Z",
+            "owner": "netsys-lab",
+            "repo": "scion-ca",
             "stars": 2
           }
         },
@@ -90,7 +90,7 @@
             "last_commit": "2026-07-09T02:10:52Z",
             "owner": "netsec-ethz",
             "repo": "scion-apps",
-            "stars": 30
+            "stars": 31
           }
         },
         {
@@ -129,7 +129,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2024-12-14T22:14:51Z",
+            "last_commit": "2026-08-17T22:16:32Z",
             "owner": "lschulz",
             "repo": "ioq3-scion",
             "stars": 3
@@ -300,7 +300,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2025-06-19T15:20:29Z",
+            "last_commit": "2026-08-17T14:38:38Z",
             "owner": "lschulz",
             "repo": "pan-bindings",
             "stars": 1
@@ -314,7 +314,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2024-05-21T20:31:22Z",
+            "last_commit": "2026-08-17T14:05:25Z",
             "owner": "lschulz",
             "repo": "snet-bindings",
             "stars": 0
@@ -392,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T03:30:04.650Z",
+    "last_updated": "2026-08-18T03:24:57.533Z",
     "original_repository": "scionproto/awesome-scion",
     "original_repository_sha": "06828249764abb757925ff3f2ebed4168d3b3dcb",
     "enhanced_repository": "enhansome/enhansome-scion",
