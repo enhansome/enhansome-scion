@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,8 +10,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21826148,
             "language": "Go",
-            "last_commit": "2026-08-12T14:59:01Z",
+            "last_commit": "2026-08-19T10:27:33Z",
             "owner": "scionproto",
             "repo": "scion",
             "stars": 561
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 709543000,
             "language": "Python",
             "last_commit": "2025-02-25T19:30:59Z",
             "owner": "netsys-lab",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 348972025,
             "language": "Go",
             "last_commit": "2025-09-23T14:32:06Z",
             "owner": "netsec-ethz",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 526353642,
             "language": "Go",
             "last_commit": "2023-03-20T08:51:55Z",
             "owner": "netsys-lab",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 859466409,
             "language": "Go",
             "last_commit": "2026-07-08T22:46:41Z",
             "owner": "scionproto-contrib",
@@ -77,7 +82,7 @@
       "title": "Infrastructure"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110789539,
             "language": "Go",
             "last_commit": "2026-07-09T02:10:52Z",
             "owner": "netsec-ethz",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 423457076,
             "language": "Go",
             "last_commit": "2024-10-07T17:36:11Z",
             "owner": "netsys-lab",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 869392214,
             "language": "TypeScript",
             "last_commit": "2026-03-11T13:01:26Z",
             "owner": "scionproto-contrib",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 653327009,
             "language": "C",
             "last_commit": "2026-08-17T22:16:32Z",
             "owner": "lschulz",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 637681245,
             "language": "C",
             "last_commit": "2024-04-17T10:46:27Z",
             "owner": "netsec-ethz",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 855307267,
             "language": "Java",
             "last_commit": "2026-05-04T11:13:43Z",
             "owner": "netsec-ethz",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 869380455,
             "language": "Go",
             "last_commit": "2026-05-18T15:48:47Z",
             "owner": "scionproto-contrib",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1178825459,
             "language": "Java",
             "last_commit": "2026-08-14T12:53:54Z",
             "owner": "netsec-ethz",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 709980500,
             "language": "Go",
             "last_commit": "2023-12-18T02:12:23Z",
             "owner": "MartincoitNetworks",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 270647661,
             "language": "Go",
             "last_commit": "2025-05-08T07:56:57Z",
             "owner": "netsys-lab",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 693744868,
             "language": "Go",
             "last_commit": "2023-12-18T02:14:49Z",
             "owner": "MartincoitNetworks",
@@ -237,94 +253,102 @@
       "title": "Applications"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "parts",
+              "description": "Path-aware Reliable Transport over SCION. :wrench:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 399142610,
+                "language": "Go",
+                "last_commit": "2022-05-22T13:54:26Z",
+                "owner": "netsys-lab",
+                "repo": "parts",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "scion-path-discovery",
+              "description": "Multipath library for SCION.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 369493952,
+                "language": "Go",
+                "last_commit": "2024-01-15T15:36:44Z",
+                "owner": "netsys-lab",
+                "repo": "scion-path-discovery",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Go"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pan-lua",
+              "description": "Lua-scriptable path selector interface to pan.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 549546350,
+                "language": "Go",
+                "last_commit": "2024-04-02T20:23:48Z",
+                "owner": "netsys-lab",
+                "repo": "pan-lua",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pan-bindings",
+              "description": "C, C++, and Python bindings for pan.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 653324960,
+                "language": "Go",
+                "last_commit": "2026-08-17T14:38:38Z",
+                "owner": "lschulz",
+                "repo": "pan-bindings",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "snet-bindings",
+              "description": "C and C++ bindings for snet. :wrench:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 753250611,
+                "language": "C++",
+                "last_commit": "2026-08-17T14:05:25Z",
+                "owner": "lschulz",
+                "repo": "snet-bindings",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Bindings"
+        }
+      ],
       "title": "Libraries"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "parts",
-          "description": "Path-aware Reliable Transport over SCION. :wrench:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2022-05-22T13:54:26Z",
-            "owner": "netsys-lab",
-            "repo": "parts",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "scion-path-discovery",
-          "description": "Multipath library for SCION.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-01-15T15:36:44Z",
-            "owner": "netsys-lab",
-            "repo": "scion-path-discovery",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Go"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "pan-lua",
-          "description": "Lua-scriptable path selector interface to pan.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-04-02T20:23:48Z",
-            "owner": "netsys-lab",
-            "repo": "pan-lua",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pan-bindings",
-          "description": "C, C++, and Python bindings for pan.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T14:38:38Z",
-            "owner": "lschulz",
-            "repo": "pan-bindings",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "snet-bindings",
-          "description": "C and C++ bindings for snet. :wrench:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-17T14:05:25Z",
-            "owner": "lschulz",
-            "repo": "snet-bindings",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Bindings"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -333,6 +357,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 296699554,
             "language": "Python",
             "last_commit": "2026-08-09T12:08:58Z",
             "owner": "seed-labs",
@@ -347,6 +372,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 381298195,
             "language": "Python",
             "last_commit": "2026-07-16T18:03:47Z",
             "owner": "lschulz",
@@ -361,6 +387,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 709543000,
             "language": "Python",
             "last_commit": "2025-02-25T19:30:59Z",
             "owner": "netsys-lab",
@@ -375,6 +402,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1288467453,
             "language": "Go",
             "last_commit": "2026-07-24T11:13:36Z",
             "owner": "netsys-lab",
@@ -384,16 +412,12 @@
         }
       ],
       "title": "Tools"
-    },
-    {
-      "description": "[1]: ISD and AS numbers assignments are currently managed by Anapaya. This will be handed over to a vendor-neutral governance body, like the regional internet registries or the SCION Association, as soon as possible.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:27:16.438Z",
+    "last_updated": "2026-08-19T12:50:38.248Z",
     "original_repository": "scionproto/awesome-scion",
+    "original_repository_id": 709446730,
     "original_repository_sha": "06828249764abb757925ff3f2ebed4168d3b3dcb",
     "enhanced_repository": "enhansome/enhansome-scion",
     "enhanced_repository_description": null,
