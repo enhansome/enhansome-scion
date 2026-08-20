@@ -359,7 +359,7 @@
             "archived": false,
             "id": 296699554,
             "language": "Python",
-            "last_commit": "2026-08-09T12:08:58Z",
+            "last_commit": "2026-08-20T03:23:18Z",
             "owner": "seed-labs",
             "repo": "seed-emulator",
             "stars": 284
@@ -415,7 +415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:50:38.248Z",
+    "last_updated": "2026-08-20T03:26:53.364Z",
     "original_repository": "scionproto/awesome-scion",
     "original_repository_id": 709446730,
     "original_repository_sha": "06828249764abb757925ff3f2ebed4168d3b3dcb",
