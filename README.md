@@ -1,6 +1,6 @@
 # Awesome SCION with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,336 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,521 | 🐛 106 | 📅 2026-08-21
 [![Slack chat](https://img.shields.io/badge/chat%20on-slack-blue?logo=slack)](https://scionproto.slack.com)
 [![Matrix chat](https://img.shields.io/badge/chat%20on-matrix-blue?logo=matrix)](https://matrix.to/#/#scion:matrix.scion.org)
 [![SCION Association](https://img.shields.io/badge/SCION-Association-white)](https://www.scion.org)
@@ -17,11 +17,11 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 
 ## Infrastructure
 
-* [scionproto/scion](https://github.com/scionproto/scion) ⭐ 561 | 🐛 152 | 🌐 Go | 📅 2026-08-19 - The open-source implementation of SCION.
+* [scionproto/scion](https://github.com/scionproto/scion) ⭐ 561 | 🐛 157 | 🌐 Go | 📅 2026-08-24 - The open-source implementation of SCION.
 * [tofino-scion-br](https://github.com/netsys-lab/scion-p4/tree/main/tofino-scion-br) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-02-25 - SCION border router in P4 with support for AES accelerators. :wrench:
 * [bootstrapper](https://github.com/netsec-ethz/bootstrapper) ⭐ 3 | 🐛 8 | 🌐 Go | 📅 2025-09-23 - SCION endhost autoconfiguration tool.
-* [scion-ca](https://github.com/netsys-lab/scion-ca) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2023-03-20 - SCION Control Plane PKI implementation based on [smallstep/step-ca](https://github.com/smallstep/certificates) ⭐ 8,772 | 🐛 288 | 🌐 Go | 📅 2026-08-17.
-* [step-scion-plugin](https://github.com/scionproto-contrib/step-scion-plugin) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2026-07-08 - SCION Control Plane PKI plugin for [smallstep/cli](https://github.com/smallstep/cli) ⭐ 4,314 | 🐛 190 | 🌐 Go | 📅 2026-08-19 :wrench: :construction:
+* [scion-ca](https://github.com/netsys-lab/scion-ca) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2023-03-20 - SCION Control Plane PKI implementation based on [smallstep/step-ca](https://github.com/smallstep/certificates) ⭐ 8,774 | 🐛 288 | 🌐 Go | 📅 2026-08-17.
+* [step-scion-plugin](https://github.com/scionproto-contrib/step-scion-plugin) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2026-07-08 - SCION Control Plane PKI plugin for [smallstep/cli](https://github.com/smallstep/cli) ⭐ 4,315 | 🐛 190 | 🌐 Go | 📅 2026-08-19 :wrench: :construction:
 * [Anapaya](https://www.anapaya.net) - Vendor of SCION infrastructure, both based on the open-source implementation and proprietary.
 
 ## Applications
@@ -61,7 +61,7 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 
 ##### Rust
 
-* [scion-sdk](https://github.com/Anapaya/scion-sdk) ⭐ 26 | 🐛 0 | 🌐 Rust | 📅 2026-07-27 - SCION endhost stack written in Rust.
+* [scion-sdk](https://github.com/Anapaya/scion-sdk) ⭐ 26 | 🐛 0 | 🌐 Rust | 📅 2026-08-24 - SCION endhost stack written in Rust.
 
 ##### C++
 

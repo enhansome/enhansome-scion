@@ -12,7 +12,7 @@
             "archived": false,
             "id": 21826148,
             "language": "Go",
-            "last_commit": "2026-08-19T10:27:33Z",
+            "last_commit": "2026-08-24T11:12:48Z",
             "owner": "scionproto",
             "repo": "scion",
             "stars": 561
@@ -296,6 +296,72 @@
           "children": [
             {
               "node_type": "item",
+              "title": "jpan",
+              "description": "Java SCION application library. :wrench:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 678297728,
+                "language": "Java",
+                "last_commit": "2026-08-18T14:37:44Z",
+                "owner": "scionproto-contrib",
+                "repo": "jpan",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Java"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "scion-sdk",
+              "description": "SCION endhost stack written in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1071621591,
+                "language": "Rust",
+                "last_commit": "2026-08-24T07:35:15Z",
+                "owner": "Anapaya",
+                "repo": "scion-sdk",
+                "stars": 26
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rust"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "scion-cpp",
+              "description": "SCION C++ application SDK. Includes support for ASIO and C-style socket programming.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1001683632,
+                "language": "C++",
+                "last_commit": "2026-08-23T17:49:56Z",
+                "owner": "lschulz",
+                "repo": "scion-cpp",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C++"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "pan-lua",
               "description": "Lua-scriptable path selector interface to pan.",
               "children": [],
@@ -415,7 +481,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:33:35.664Z",
+    "last_updated": "2026-08-24T14:47:50.391Z",
     "original_repository": "scionproto/awesome-scion",
     "original_repository_id": 709446730,
     "original_repository_sha": "06828249764abb757925ff3f2ebed4168d3b3dcb",
