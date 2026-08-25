@@ -303,7 +303,7 @@
                 "archived": false,
                 "id": 678297728,
                 "language": "Java",
-                "last_commit": "2026-08-18T14:37:44Z",
+                "last_commit": "2026-08-24T15:15:21Z",
                 "owner": "scionproto-contrib",
                 "repo": "jpan",
                 "stars": 5
@@ -481,7 +481,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:47:50.391Z",
+    "last_updated": "2026-08-25T03:27:54.215Z",
     "original_repository": "scionproto/awesome-scion",
     "original_repository_id": 709446730,
     "original_repository_sha": "06828249764abb757925ff3f2ebed4168d3b3dcb",
