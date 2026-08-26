@@ -303,7 +303,7 @@
                 "archived": false,
                 "id": 678297728,
                 "language": "Java",
-                "last_commit": "2026-08-24T15:15:21Z",
+                "last_commit": "2026-08-25T15:00:40Z",
                 "owner": "scionproto-contrib",
                 "repo": "jpan",
                 "stars": 5
@@ -325,7 +325,7 @@
                 "archived": false,
                 "id": 1071621591,
                 "language": "Rust",
-                "last_commit": "2026-08-24T07:35:15Z",
+                "last_commit": "2026-08-25T08:00:22Z",
                 "owner": "Anapaya",
                 "repo": "scion-sdk",
                 "stars": 26
@@ -428,7 +428,7 @@
             "last_commit": "2026-08-20T03:23:18Z",
             "owner": "seed-labs",
             "repo": "seed-emulator",
-            "stars": 284
+            "stars": 285
           }
         },
         {
@@ -481,7 +481,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:37:46.840Z",
+    "last_updated": "2026-08-26T03:35:11.929Z",
     "original_repository": "scionproto/awesome-scion",
     "original_repository_id": 709446730,
     "original_repository_sha": "06828249764abb757925ff3f2ebed4168d3b3dcb",
