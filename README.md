@@ -1,6 +1,6 @@
 # Awesome SCION with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,367 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,379 | 🐛 105 | 📅 2026-08-21
 [![Slack chat](https://img.shields.io/badge/chat%20on-slack-blue?logo=slack)](https://scionproto.slack.com)
 [![Matrix chat](https://img.shields.io/badge/chat%20on-matrix-blue?logo=matrix)](https://matrix.to/#/#scion:matrix.scion.org)
 [![SCION Association](https://img.shields.io/badge/SCION-Association-white)](https://www.scion.org)
