@@ -16,7 +16,8 @@
             "owner": "scionproto",
             "repo": "scion",
             "stars": 561
-          }
+          },
+          "first_seen": "2026-08-28T14:34:02.894Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "netsys-lab",
             "repo": "scion-p4",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T14:34:02.894Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "netsec-ethz",
             "repo": "bootstrapper",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T14:34:02.894Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "netsys-lab",
             "repo": "scion-ca",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T14:34:02.894Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "scionproto-contrib",
             "repo": "step-scion-plugin",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T14:34:02.894Z"
         }
       ],
       "title": "Infrastructure"
@@ -97,7 +102,8 @@
             "owner": "netsec-ethz",
             "repo": "scion-apps",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T14:34:02.894Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "netsys-lab",
             "repo": "bittorrent-over-scion",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T14:34:02.894Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "scionproto-contrib",
             "repo": "browser-extension",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T14:34:02.894Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "lschulz",
             "repo": "ioq3-scion",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T14:34:02.894Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "netsec-ethz",
             "repo": "hercules",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T14:34:02.894Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "netsec-ethz",
             "repo": "scion-java-multiping",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T14:34:02.894Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "scionproto-contrib",
             "repo": "http-proxy",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T14:34:02.894Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "netsec-ethz",
             "repo": "jpan-cli",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T14:34:02.894Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "MartincoitNetworks",
             "repo": "nats-server",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T14:34:02.894Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "netsys-lab",
             "repo": "scion-apps",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T14:34:02.894Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "MartincoitNetworks",
             "repo": "scion-nats.go",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T14:34:02.894Z"
         }
       ],
       "title": "Applications"
@@ -270,7 +286,8 @@
                 "owner": "netsys-lab",
                 "repo": "parts",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T14:34:02.894Z"
             },
             {
               "node_type": "item",
@@ -285,7 +302,8 @@
                 "owner": "netsys-lab",
                 "repo": "scion-path-discovery",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T14:34:02.894Z"
             }
           ],
           "description": null,
@@ -303,11 +321,12 @@
                 "archived": false,
                 "id": 678297728,
                 "language": "Java",
-                "last_commit": "2026-08-26T15:35:01Z",
+                "last_commit": "2026-08-28T11:12:09Z",
                 "owner": "scionproto-contrib",
                 "repo": "jpan",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T14:34:02.894Z"
             }
           ],
           "description": null,
@@ -325,11 +344,12 @@
                 "archived": false,
                 "id": 1071621591,
                 "language": "Rust",
-                "last_commit": "2026-08-25T08:00:22Z",
+                "last_commit": "2026-08-28T08:46:03Z",
                 "owner": "Anapaya",
                 "repo": "scion-sdk",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T14:34:02.894Z"
             }
           ],
           "description": null,
@@ -351,7 +371,8 @@
                 "owner": "lschulz",
                 "repo": "scion-cpp",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T14:34:02.894Z"
             }
           ],
           "description": null,
@@ -373,7 +394,8 @@
                 "owner": "netsys-lab",
                 "repo": "pan-lua",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T14:34:02.894Z"
             },
             {
               "node_type": "item",
@@ -388,7 +410,8 @@
                 "owner": "lschulz",
                 "repo": "pan-bindings",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T14:34:02.894Z"
             },
             {
               "node_type": "item",
@@ -403,7 +426,8 @@
                 "owner": "lschulz",
                 "repo": "snet-bindings",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T14:34:02.894Z"
             }
           ],
           "description": null,
@@ -429,7 +453,8 @@
             "owner": "seed-labs",
             "repo": "seed-emulator",
             "stars": 285
-          }
+          },
+          "first_seen": "2026-08-28T14:34:02.894Z"
         },
         {
           "node_type": "item",
@@ -444,7 +469,8 @@
             "owner": "lschulz",
             "repo": "scapy-scion-int",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T14:34:02.894Z"
         },
         {
           "node_type": "item",
@@ -459,7 +485,8 @@
             "owner": "netsys-lab",
             "repo": "scion-p4",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T14:34:02.894Z"
         },
         {
           "node_type": "item",
@@ -474,14 +501,15 @@
             "owner": "netsys-lab",
             "repo": "ietf-scion-testbed",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T14:34:02.894Z"
         }
       ],
       "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T13:03:46.122Z",
+    "last_updated": "2026-08-28T14:34:02.894Z",
     "original_repository_info": {
       "archived": false,
       "id": 709446730,
