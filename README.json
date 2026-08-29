@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SCION Internet Architecture",
+            "homepage": "https://www.scion.org",
             "id": 21826148,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T11:12:48Z",
+            "open_issues": 162,
             "owner": "scionproto",
             "repo": "scion",
-            "stars": 561
+            "stars": 562,
+            "topics": [
+              "internet",
+              "networking",
+              "reference-implementation",
+              "scion"
+            ]
           },
           "first_seen": "2026-08-28T14:34:02.894Z"
         },
@@ -26,12 +36,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "P4 data plane programs for SCION developed at OvGU Magdeburg NetSys Lab.",
+            "homepage": null,
             "id": 709543000,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-02-25T19:30:59Z",
+            "open_issues": 0,
             "owner": "netsys-lab",
             "repo": "scion-p4",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "p4",
+              "scion",
+              "tofino"
+            ]
           },
           "first_seen": "2026-08-28T14:34:02.894Z"
         },
@@ -42,12 +61,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 348972025,
             "language": "Go",
+            "license": null,
             "last_commit": "2025-09-23T14:32:06Z",
+            "open_issues": 8,
             "owner": "netsec-ethz",
             "repo": "bootstrapper",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:02.894Z"
         },
@@ -58,12 +82,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repo for smallstep CA to run on SCION",
+            "homepage": null,
             "id": 526353642,
             "language": "Go",
+            "license": null,
             "last_commit": "2023-03-20T08:51:55Z",
+            "open_issues": 0,
             "owner": "netsys-lab",
             "repo": "scion-ca",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:02.894Z"
         },
@@ -74,12 +103,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔐 step plugin to manage SCION CPPKI material",
+            "homepage": null,
             "id": 859466409,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-08T22:46:41Z",
+            "open_issues": 0,
             "owner": "scionproto-contrib",
             "repo": "step-scion-plugin",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:02.894Z"
         }
@@ -96,12 +130,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public repository for SCION applications",
+            "homepage": null,
             "id": 110789539,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-09T02:10:52Z",
+            "open_issues": 40,
             "owner": "netsec-ethz",
             "repo": "scion-apps",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:02.894Z"
         },
@@ -112,12 +151,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Current BitTorrent over SCION implementation",
+            "homepage": null,
             "id": 423457076,
             "language": "Go",
+            "license": null,
             "last_commit": "2024-10-07T17:36:11Z",
+            "open_issues": 2,
             "owner": "netsys-lab",
             "repo": "bittorrent-over-scion",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:02.894Z"
         },
@@ -128,12 +172,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SCION chromium-based browser extension",
+            "homepage": null,
             "id": 869392214,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-11T13:01:26Z",
+            "open_issues": 3,
             "owner": "scionproto-contrib",
             "repo": "browser-extension",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:02.894Z"
         },
@@ -144,12 +193,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ioquake3 with support for path aware networking",
+            "homepage": null,
             "id": 653327009,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-17T22:16:32Z",
+            "open_issues": 0,
             "owner": "lschulz",
             "repo": "ioq3-scion",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "game-engine",
+              "path-aware-networking",
+              "quake-3",
+              "scion"
+            ]
           },
           "first_seen": "2026-08-28T14:34:02.894Z"
         },
@@ -160,12 +219,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 637681245,
             "language": "C",
+            "license": null,
             "last_commit": "2024-04-17T10:46:27Z",
+            "open_issues": 3,
             "owner": "netsec-ethz",
             "repo": "hercules",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:02.894Z"
         },
@@ -176,12 +240,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 855307267,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-04T11:13:43Z",
+            "open_issues": 1,
             "owner": "netsec-ethz",
             "repo": "scion-java-multiping",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:02.894Z"
         },
@@ -192,12 +261,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SCION HTTP Proxy modules",
+            "homepage": "https://scion-http-proxy.readthedocs.io",
             "id": 869380455,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-18T15:48:47Z",
+            "open_issues": 1,
             "owner": "scionproto-contrib",
             "repo": "http-proxy",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:02.894Z"
         },
@@ -208,12 +282,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JPAN Command Line Tool",
+            "homepage": null,
             "id": 1178825459,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-14T12:53:54Z",
+            "open_issues": 1,
             "owner": "netsec-ethz",
             "repo": "jpan-cli",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:02.894Z"
         },
@@ -224,12 +303,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SCiON enabled fork of High-Performance server for NATS.io, the cloud and edge native messaging system.",
+            "homepage": "https://nats.io",
             "id": 709980500,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-18T02:12:23Z",
+            "open_issues": 0,
             "owner": "MartincoitNetworks",
             "repo": "nats-server",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "scion"
+            ]
           },
           "first_seen": "2026-08-28T14:34:02.894Z"
         },
@@ -240,12 +326,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public repository for SCION applications",
+            "homepage": null,
             "id": 270647661,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-08T07:56:57Z",
+            "open_issues": 0,
             "owner": "netsys-lab",
             "repo": "scion-apps",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:02.894Z"
         },
@@ -256,12 +347,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 693744868,
             "language": "Go",
+            "license": null,
             "last_commit": "2023-12-18T02:14:49Z",
+            "open_issues": 0,
             "owner": "MartincoitNetworks",
             "repo": "scion-nats.go",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:02.894Z"
         }
@@ -280,12 +376,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Path-Aware Transport over SCION",
+                "homepage": null,
                 "id": 399142610,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2022-05-22T13:54:26Z",
+                "open_issues": 0,
                 "owner": "netsys-lab",
                 "repo": "parts",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:02.894Z"
             },
@@ -296,12 +397,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The goal of the SCION-Pathdiscovery project is to leverage the path-awareness features of the SCION secure Internet architecture in order to discover a fast and reliable content lookup and delivery. ",
+                "homepage": null,
                 "id": 369493952,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-15T15:36:44Z",
+                "open_issues": 0,
                 "owner": "netsys-lab",
                 "repo": "scion-path-discovery",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:02.894Z"
             }
@@ -319,12 +425,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SCION Java Client",
+                "homepage": null,
                 "id": 678297728,
                 "language": "Java",
-                "last_commit": "2026-08-28T11:12:09Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:06:06Z",
+                "open_issues": 11,
                 "owner": "scionproto-contrib",
                 "repo": "jpan",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "scion"
+                ]
               },
               "first_seen": "2026-08-28T14:34:02.894Z"
             }
@@ -342,12 +455,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Supercharge your applications with SCION's path-aware networking capabilities!",
+                "homepage": "https://www.anapaya.net",
                 "id": 1071621591,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T08:46:03Z",
+                "open_issues": 0,
                 "owner": "Anapaya",
                 "repo": "scion-sdk",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "internet",
+                  "networking",
+                  "scion"
+                ]
               },
               "first_seen": "2026-08-28T14:34:02.894Z"
             }
@@ -365,12 +487,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SCION SDK and applications in C++ with compatibility layers that make *any* app SCION compatible.",
+                "homepage": null,
                 "id": 1001683632,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-23T17:49:56Z",
+                "open_issues": 0,
                 "owner": "lschulz",
                 "repo": "scion-cpp",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "scion"
+                ]
               },
               "first_seen": "2026-08-28T14:34:02.894Z"
             }
@@ -388,12 +517,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A RPC selector for the SCION PAN library, with a scriptable Lua backend",
+                "homepage": null,
                 "id": 549546350,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-02T20:23:48Z",
+                "open_issues": 1,
                 "owner": "netsys-lab",
                 "repo": "pan-lua",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:02.894Z"
             },
@@ -404,12 +538,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SCION PAN Bindings for C, C++, and Python",
+                "homepage": null,
                 "id": 653324960,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-17T14:38:38Z",
+                "open_issues": 0,
                 "owner": "lschulz",
                 "repo": "pan-bindings",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "path-aware-networking",
+                  "scion",
+                  "scion-apps"
+                ]
               },
               "first_seen": "2026-08-28T14:34:02.894Z"
             },
@@ -420,12 +563,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SCION SNET Bindings for C and C++",
+                "homepage": null,
                 "id": 753250611,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-17T14:05:25Z",
+                "open_issues": 0,
                 "owner": "lschulz",
                 "repo": "snet-bindings",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "path-aware-networking",
+                  "scion",
+                  "scion-apps"
+                ]
               },
               "first_seen": "2026-08-28T14:34:02.894Z"
             }
@@ -447,12 +599,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python framework for creating emulation of the Internet.",
+            "homepage": null,
             "id": 296699554,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-20T03:23:18Z",
+            "open_issues": 32,
             "owner": "seed-labs",
             "repo": "seed-emulator",
-            "stars": 285
+            "stars": 285,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:02.894Z"
         },
@@ -463,12 +620,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SCION and In-band Network Telemetry layers for Scapy",
+            "homepage": null,
             "id": 381298195,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-07-16T18:03:47Z",
+            "open_issues": 0,
             "owner": "lschulz",
             "repo": "scapy-scion-int",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "in-band-network-telemetry",
+              "path-aware-networking",
+              "scion"
+            ]
           },
           "first_seen": "2026-08-28T14:34:02.894Z"
         },
@@ -479,12 +645,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "P4 data plane programs for SCION developed at OvGU Magdeburg NetSys Lab.",
+            "homepage": null,
             "id": 709543000,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-02-25T19:30:59Z",
+            "open_issues": 0,
             "owner": "netsys-lab",
             "repo": "scion-p4",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "p4",
+              "scion",
+              "tofino"
+            ]
           },
           "first_seen": "2026-08-28T14:34:02.894Z"
         },
@@ -495,12 +670,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demo Testbed for IETF 126 Hackathon",
+            "homepage": null,
             "id": 1288467453,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-07-24T11:13:36Z",
+            "open_issues": 0,
             "owner": "netsys-lab",
             "repo": "ietf-scion-testbed",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:02.894Z"
         }
@@ -509,15 +689,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:34:02.894Z",
+    "last_updated": "2026-08-29T05:03:24.977Z",
     "original_repository_info": {
       "archived": false,
+      "description": " 😎 A list of awesome SCION tools, applications, libraries etc. ",
+      "homepage": "https://www.scion.org",
       "id": 709446730,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-07-21T13:40:34Z",
+      "open_issues": 1,
       "owner": "scionproto",
       "repo": "awesome-scion",
-      "stars": 61
+      "stars": 61,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "scion"
+      ]
     },
     "original_repository_sha": "06828249764abb757925ff3f2ebed4168d3b3dcb",
     "enhanced_repository": "enhansome/enhansome-scion",
