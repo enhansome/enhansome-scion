@@ -1,6 +1,6 @@
 # Awesome SCION with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,952 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,257 | 🐛 105 | 📅 2026-08-21
 [![Slack chat](https://img.shields.io/badge/chat%20on-slack-blue?logo=slack)](https://scionproto.slack.com)
 [![Matrix chat](https://img.shields.io/badge/chat%20on-matrix-blue?logo=matrix)](https://matrix.to/#/#scion:matrix.scion.org)
 [![SCION Association](https://img.shields.io/badge/SCION-Association-white)](https://www.scion.org)
@@ -20,13 +20,13 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 * [scionproto/scion](https://github.com/scionproto/scion) ⭐ 562 | 🐛 162 | 🌐 Go | 📅 2026-08-24 - The open-source implementation of SCION.
 * [tofino-scion-br](https://github.com/netsys-lab/scion-p4/tree/main/tofino-scion-br) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-02-25 - SCION border router in P4 with support for AES accelerators. :wrench:
 * [bootstrapper](https://github.com/netsec-ethz/bootstrapper) ⭐ 3 | 🐛 8 | 🌐 Go | 📅 2025-09-23 - SCION endhost autoconfiguration tool.
-* [scion-ca](https://github.com/netsys-lab/scion-ca) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2023-03-20 - SCION Control Plane PKI implementation based on [smallstep/step-ca](https://github.com/smallstep/certificates) ⭐ 8,785 | 🐛 287 | 🌐 Go | 📅 2026-08-27.
+* [scion-ca](https://github.com/netsys-lab/scion-ca) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2023-03-20 - SCION Control Plane PKI implementation based on [smallstep/step-ca](https://github.com/smallstep/certificates) ⭐ 8,788 | 🐛 287 | 🌐 Go | 📅 2026-08-27.
 * [step-scion-plugin](https://github.com/scionproto-contrib/step-scion-plugin) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2026-07-08 - SCION Control Plane PKI plugin for [smallstep/cli](https://github.com/smallstep/cli) ⭐ 4,317 | 🐛 192 | 🌐 Go | 📅 2026-08-26 :wrench: :construction:
 * [Anapaya](https://www.anapaya.net) - Vendor of SCION infrastructure, both based on the open-source implementation and proprietary.
 
 ## Applications
 
-* [scion-apps](https://github.com/netsec-ethz/scion-apps) ⭐ 31 | 🐛 40 | 🌐 Go | 📅 2026-07-09 - Miscellaneous SCION demo applications.
+* [scion-apps](https://github.com/netsec-ethz/scion-apps) ⭐ 31 | 🐛 40 | 🌐 Go | 📅 2026-08-29 - Miscellaneous SCION demo applications.
 * [bittorrent-over-scion](https://github.com/netsys-lab/bittorrent-over-scion) ⭐ 6 | 🐛 2 | 🌐 Go | 📅 2024-10-07 - Path-aware BitTorrent client running on SCION.
 * [scion-browser-extension](https://github.com/scionproto-contrib/browser-extension) ⭐ 4 | 🐛 3 | 🌐 TypeScript | 📅 2026-03-11 - SCION support for Chrome/Firefox :wrench: ([docs](https://scion-browser-extension.readthedocs.io/en/latest/index.html)).
 * [ioq3-scion](https://github.com/lschulz/ioq3-scion) ⭐ 3 | 🐛 0 | 🌐 C | 📅 2026-08-17 - Quake III with SCION networking. :boom:
@@ -114,4 +114,4 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._

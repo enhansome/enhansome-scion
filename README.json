@@ -135,7 +135,7 @@
             "id": 110789539,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-07-09T02:10:52Z",
+            "last_commit": "2026-08-29T18:02:39Z",
             "open_issues": 40,
             "owner": "netsec-ethz",
             "repo": "scion-apps",
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T09:20:57.621Z",
+    "last_updated": "2026-08-30T08:31:16.856Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A list of awesome SCION tools, applications, libraries etc. ",
