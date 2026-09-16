@@ -1,6 +1,6 @@
 # Awesome SCION with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 506,172 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 506,500 | 🐛 106 | 📅 2026-09-02
 [![Slack chat](https://img.shields.io/badge/chat%20on-slack-blue?logo=slack)](https://scionproto.slack.com)
 [![Matrix chat](https://img.shields.io/badge/chat%20on-matrix-blue?logo=matrix)](https://matrix.to/#/#scion:matrix.scion.org)
 [![SCION Association](https://img.shields.io/badge/SCION-Association-white)](https://www.scion.org)
@@ -19,22 +19,22 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 
 * [scionproto/scion](https://github.com/scionproto/scion) ⭐ 565 | 🐛 159 | 🌐 Go | 📅 2026-09-14 - The open-source implementation of SCION.
 * [tofino-scion-br](https://github.com/netsys-lab/scion-p4/tree/main/tofino-scion-br) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-02-25 - SCION border router in P4 with support for AES accelerators. :wrench:
+* [scion-ca](https://github.com/netsys-lab/scion-ca) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2023-03-20 - SCION Control Plane PKI implementation based on [smallstep/step-ca](https://github.com/smallstep/certificates) ⭐ 8,872 | 🐛 293 | 🌐 Go | 📅 2026-09-15.
 * [bootstrapper](https://github.com/netsec-ethz/bootstrapper) ⭐ 3 | 🐛 8 | 🌐 Go | 📅 2025-09-23 - SCION endhost autoconfiguration tool.
-* [scion-ca](https://github.com/netsys-lab/scion-ca) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2023-03-20 - SCION Control Plane PKI implementation based on [smallstep/step-ca](https://github.com/smallstep/certificates) ⭐ 8,868 | 🐛 297 | 🌐 Go | 📅 2026-09-08.
-* [step-scion-plugin](https://github.com/scionproto-contrib/step-scion-plugin) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2026-07-08 - SCION Control Plane PKI plugin for [smallstep/cli](https://github.com/smallstep/cli) ⭐ 4,329 | 🐛 198 | 🌐 Go | 📅 2026-09-14 :wrench: :construction:
+* [step-scion-plugin](https://github.com/scionproto-contrib/step-scion-plugin) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2026-07-08 - SCION Control Plane PKI plugin for [smallstep/cli](https://github.com/smallstep/cli) ⭐ 4,330 | 🐛 198 | 🌐 Go | 📅 2026-09-15 :wrench: :construction:
 * [Anapaya](https://www.anapaya.net) - Vendor of SCION infrastructure, both based on the open-source implementation and proprietary.
 
 ## Applications
 
-* [scion-apps](https://github.com/netsec-ethz/scion-apps) ⭐ 31 | 🐛 40 | 🌐 Go | 📅 2026-09-12 - Miscellaneous SCION demo applications.
+* [scion-apps](https://github.com/netsec-ethz/scion-apps) ⭐ 32 | 🐛 40 | 🌐 Go | 📅 2026-09-15 - Miscellaneous SCION demo applications.
 * [bittorrent-over-scion](https://github.com/netsys-lab/bittorrent-over-scion) ⭐ 6 | 🐛 2 | 🌐 Go | 📅 2024-10-07 - Path-aware BitTorrent client running on SCION.
-* [scion-browser-extension](https://github.com/scionproto-contrib/browser-extension) ⭐ 4 | 🐛 3 | 🌐 TypeScript | 📅 2026-03-11 - SCION support for Chrome/Firefox :wrench: ([docs](https://scion-browser-extension.readthedocs.io/en/latest/index.html)).
-* [ioq3-scion](https://github.com/lschulz/ioq3-scion) ⭐ 3 | 🐛 0 | 🌐 C | 📅 2026-08-17 - Quake III with SCION networking. :boom:
+* [scion-browser-extension](https://github.com/scionproto-contrib/browser-extension) ⭐ 5 | 🐛 3 | 🌐 TypeScript | 📅 2026-03-11 - SCION support for Chrome/Firefox :wrench: ([docs](https://scion-browser-extension.readthedocs.io/en/latest/index.html)).
+* [ioq3-scion](https://github.com/lschulz/ioq3-scion) ⭐ 4 | 🐛 0 | 🌐 C | 📅 2026-08-17 - Quake III with SCION networking. :boom:
+* [multiping](https://github.com/netsec-ethz/scion-java-multiping) ⭐ 3 | 🐛 1 | 🌐 Java | 📅 2026-05-04 - A tool to measure latency on multiple paths to multiple destinations. :wrench:
+* [HTTP proxy](https://github.com/scionproto-contrib/http-proxy) ⭐ 2 | 🐛 1 | 🌐 Go | 📅 2026-05-18 - SCION enabled HTTP Forward/Reverse proxy :wrench:
 * [hercules](https://github.com/netsec-ethz/hercules) ⭐ 2 | 🐛 3 | 🌐 C | 📅 2024-04-17 - High speed bulk data transfer application. :wrench:
-* [multiping](https://github.com/netsec-ethz/scion-java-multiping) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2026-05-04 - A tool to measure latency on multiple paths to multiple destinations. :wrench:
-* [HTTP proxy](https://github.com/scionproto-contrib/http-proxy) ⭐ 1 | 🐛 1 | 🌐 Go | 📅 2026-05-18 - SCION enabled HTTP Forward/Reverse proxy :wrench:
+* [nats-server](https://github.com/MartincoitNetworks/nats-server) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2023-12-18 - [NATS](https://nats.io/) server with SCION networking. :wrench: :construction:
 * [jpan-cli](https://github.com/netsec-ethz/jpan-cli) ⭐ 1 | 🐛 1 | 🌐 Java | 📅 2026-08-14 - A stand-alone tool for ping, traceroute, showpaths, address, etc. Based on jpan. :wrench:
-* [nats-server](https://github.com/MartincoitNetworks/nats-server) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2023-12-18 - [NATS](https://nats.io/) server with SCION networking. :wrench: :construction:
 * [spate](https://github.com/netsys-lab/scion-apps/tree/tool/spate-bpf/spate) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2025-05-08 - Multipath traffic generator and bandwidth tester. :wrench:
 * [nats-client](https://github.com/MartincoitNetworks/scion-nats.go) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2023-12-18 - Simple [NATS](https://nats.io/) client for SCION Enabled NATS servers. :wrench: :construction:
 * [SCION Application docs](https://docs.scion.org/projects/scion-applications/en/latest/) Compilation of technical information for supported SCION applications.
@@ -57,7 +57,7 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 
 ##### Java
 
-* [jpan](https://github.com/scionproto-contrib/jpan) ⭐ 5 | 🐛 11 | 🌐 Java | 📅 2026-09-14 - Java SCION application library. :wrench:
+* [jpan](https://github.com/scionproto-contrib/jpan) ⭐ 5 | 🐛 11 | 🌐 Java | 📅 2026-09-15 - Java SCION application library. :wrench:
 
 ##### Rust
 
@@ -65,7 +65,7 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 
 ##### C++
 
-* [scion-cpp](https://github.com/lschulz/scion-cpp) ⭐ 5 | 🐛 0 | 🌐 C++ | 📅 2026-09-04 - SCION C++ application SDK. Includes support for ASIO and C-style socket programming.
+* [scion-cpp](https://github.com/lschulz/scion-cpp) ⭐ 6 | 🐛 0 | 🌐 C++ | 📅 2026-09-04 - SCION C++ application SDK. Includes support for ASIO and C-style socket programming.
 
 ##### Bindings
 
@@ -114,4 +114,4 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._

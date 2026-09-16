@@ -56,6 +56,27 @@
         },
         {
           "node_type": "item",
+          "title": "scion-ca",
+          "description": "SCION Control Plane PKI implementation based on smallstep/step-ca.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Repo for smallstep CA to run on SCION",
+            "homepage": null,
+            "id": 526353642,
+            "language": "Go",
+            "license": null,
+            "last_commit": "2023-03-20T08:51:55Z",
+            "open_issues": 0,
+            "owner": "netsys-lab",
+            "repo": "scion-ca",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T14:34:02.894Z"
+        },
+        {
+          "node_type": "item",
           "title": "bootstrapper",
           "description": "SCION endhost autoconfiguration tool.",
           "children": [],
@@ -71,27 +92,6 @@
             "owner": "netsec-ethz",
             "repo": "bootstrapper",
             "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:34:02.894Z"
-        },
-        {
-          "node_type": "item",
-          "title": "scion-ca",
-          "description": "SCION Control Plane PKI implementation based on smallstep/step-ca.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Repo for smallstep CA to run on SCION",
-            "homepage": null,
-            "id": 526353642,
-            "language": "Go",
-            "license": null,
-            "last_commit": "2023-03-20T08:51:55Z",
-            "open_issues": 0,
-            "owner": "netsys-lab",
-            "repo": "scion-ca",
-            "stars": 2,
             "topics": []
           },
           "first_seen": "2026-08-28T14:34:02.894Z"
@@ -135,11 +135,11 @@
             "id": 110789539,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T07:49:16Z",
+            "last_commit": "2026-09-15T14:16:15Z",
             "open_issues": 40,
             "owner": "netsec-ethz",
             "repo": "scion-apps",
-            "stars": 31,
+            "stars": 32,
             "topics": []
           },
           "first_seen": "2026-08-28T14:34:02.894Z"
@@ -181,7 +181,7 @@
             "open_issues": 3,
             "owner": "scionproto-contrib",
             "repo": "browser-extension",
-            "stars": 4,
+            "stars": 5,
             "topics": []
           },
           "first_seen": "2026-08-28T14:34:02.894Z"
@@ -202,13 +202,55 @@
             "open_issues": 0,
             "owner": "lschulz",
             "repo": "ioq3-scion",
-            "stars": 3,
+            "stars": 4,
             "topics": [
               "game-engine",
               "path-aware-networking",
               "quake-3",
               "scion"
             ]
+          },
+          "first_seen": "2026-08-28T14:34:02.894Z"
+        },
+        {
+          "node_type": "item",
+          "title": "multiping",
+          "description": "A tool to measure latency on multiple paths to multiple destinations. :wrench:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 855307267,
+            "language": "Java",
+            "license": "Apache-2.0",
+            "last_commit": "2026-05-04T11:13:43Z",
+            "open_issues": 1,
+            "owner": "netsec-ethz",
+            "repo": "scion-java-multiping",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T14:34:02.894Z"
+        },
+        {
+          "node_type": "item",
+          "title": "HTTP proxy",
+          "description": "SCION enabled HTTP Forward/Reverse proxy :wrench:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "SCION HTTP Proxy modules",
+            "homepage": "https://scion-http-proxy.readthedocs.io",
+            "id": 869380455,
+            "language": "Go",
+            "license": "Apache-2.0",
+            "last_commit": "2026-05-18T15:48:47Z",
+            "open_issues": 1,
+            "owner": "scionproto-contrib",
+            "repo": "http-proxy",
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:02.894Z"
         },
@@ -235,43 +277,24 @@
         },
         {
           "node_type": "item",
-          "title": "multiping",
-          "description": "A tool to measure latency on multiple paths to multiple destinations. :wrench:",
+          "title": "nats-server",
+          "description": "NATS server with SCION networking. :wrench: :construction:",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 855307267,
-            "language": "Java",
-            "license": "Apache-2.0",
-            "last_commit": "2026-05-04T11:13:43Z",
-            "open_issues": 1,
-            "owner": "netsec-ethz",
-            "repo": "scion-java-multiping",
-            "stars": 2,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:34:02.894Z"
-        },
-        {
-          "node_type": "item",
-          "title": "HTTP proxy",
-          "description": "SCION enabled HTTP Forward/Reverse proxy :wrench:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "SCION HTTP Proxy modules",
-            "homepage": "https://scion-http-proxy.readthedocs.io",
-            "id": 869380455,
+            "description": "SCiON enabled fork of High-Performance server for NATS.io, the cloud and edge native messaging system.",
+            "homepage": "https://nats.io",
+            "id": 709980500,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-05-18T15:48:47Z",
-            "open_issues": 1,
-            "owner": "scionproto-contrib",
-            "repo": "http-proxy",
-            "stars": 1,
-            "topics": []
+            "last_commit": "2023-12-18T02:12:23Z",
+            "open_issues": 0,
+            "owner": "MartincoitNetworks",
+            "repo": "nats-server",
+            "stars": 2,
+            "topics": [
+              "scion"
+            ]
           },
           "first_seen": "2026-08-28T14:34:02.894Z"
         },
@@ -293,29 +316,6 @@
             "repo": "jpan-cli",
             "stars": 1,
             "topics": []
-          },
-          "first_seen": "2026-08-28T14:34:02.894Z"
-        },
-        {
-          "node_type": "item",
-          "title": "nats-server",
-          "description": "NATS server with SCION networking. :wrench: :construction:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "SCiON enabled fork of High-Performance server for NATS.io, the cloud and edge native messaging system.",
-            "homepage": "https://nats.io",
-            "id": 709980500,
-            "language": "Go",
-            "license": "Apache-2.0",
-            "last_commit": "2023-12-18T02:12:23Z",
-            "open_issues": 0,
-            "owner": "MartincoitNetworks",
-            "repo": "nats-server",
-            "stars": 1,
-            "topics": [
-              "scion"
-            ]
           },
           "first_seen": "2026-08-28T14:34:02.894Z"
         },
@@ -430,7 +430,7 @@
                 "id": 678297728,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T15:15:50Z",
+                "last_commit": "2026-09-15T15:23:05Z",
                 "open_issues": 11,
                 "owner": "scionproto-contrib",
                 "repo": "jpan",
@@ -496,7 +496,7 @@
                 "open_issues": 0,
                 "owner": "lschulz",
                 "repo": "scion-cpp",
-                "stars": 5,
+                "stars": 6,
                 "topics": [
                   "scion"
                 ]
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T07:59:57.040Z",
+    "last_updated": "2026-09-16T07:52:50.010Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A list of awesome SCION tools, applications, libraries etc. ",
