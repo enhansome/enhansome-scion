@@ -135,7 +135,7 @@
             "id": 110789539,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T14:16:15Z",
+            "last_commit": "2026-09-17T20:00:22Z",
             "open_issues": 40,
             "owner": "netsec-ethz",
             "repo": "scion-apps",
@@ -608,7 +608,7 @@
             "open_issues": 36,
             "owner": "seed-labs",
             "repo": "seed-emulator",
-            "stars": 286,
+            "stars": 287,
             "topics": []
           },
           "first_seen": "2026-08-28T14:34:02.894Z"
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T07:57:29.736Z",
+    "last_updated": "2026-09-18T07:35:37.719Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A list of awesome SCION tools, applications, libraries etc. ",
