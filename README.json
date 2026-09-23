@@ -135,7 +135,7 @@
             "id": 110789539,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T07:39:24Z",
+            "last_commit": "2026-09-22T22:52:01Z",
             "open_issues": 40,
             "owner": "netsec-ethz",
             "repo": "scion-apps",
@@ -464,7 +464,7 @@
                 "open_issues": 0,
                 "owner": "Anapaya",
                 "repo": "scion-sdk",
-                "stars": 27,
+                "stars": 28,
                 "topics": [
                   "internet",
                   "networking",
@@ -604,8 +604,8 @@
             "id": 296699554,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-19T22:09:50Z",
-            "open_issues": 34,
+            "last_commit": "2026-09-23T00:05:35Z",
+            "open_issues": 33,
             "owner": "seed-labs",
             "repo": "seed-emulator",
             "stars": 287,
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T07:55:53.104Z",
+    "last_updated": "2026-09-23T07:56:35.729Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A list of awesome SCION tools, applications, libraries etc. ",
