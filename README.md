@@ -1,6 +1,6 @@
 # Awesome SCION with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 511,124 | 🐛 107 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 511,679 | 🐛 106 | 📅 2026-09-02
 [![Slack chat](https://img.shields.io/badge/chat%20on-slack-blue?logo=slack)](https://scionproto.slack.com)
 [![Matrix chat](https://img.shields.io/badge/chat%20on-matrix-blue?logo=matrix)](https://matrix.to/#/#scion:matrix.scion.org)
 [![SCION Association](https://img.shields.io/badge/SCION-Association-white)](https://www.scion.org)
@@ -19,9 +19,9 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 
 * [scionproto/scion](https://github.com/scionproto/scion) ⭐ 567 | 🐛 159 | 🌐 Go | 📅 2026-09-24 - The open-source implementation of SCION.
 * [tofino-scion-br](https://github.com/netsys-lab/scion-p4/tree/main/tofino-scion-br) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-02-25 - SCION border router in P4 with support for AES accelerators. :wrench:
-* [scion-ca](https://github.com/netsys-lab/scion-ca) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2023-03-20 - SCION Control Plane PKI implementation based on [smallstep/step-ca](https://github.com/smallstep/certificates) ⭐ 8,906 | 🐛 302 | 🌐 Go | 📅 2026-09-22.
+* [scion-ca](https://github.com/netsys-lab/scion-ca) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2023-03-20 - SCION Control Plane PKI implementation based on [smallstep/step-ca](https://github.com/smallstep/certificates) ⭐ 8,910 | 🐛 302 | 🌐 Go | 📅 2026-09-22.
 * [bootstrapper](https://github.com/netsec-ethz/bootstrapper) ⭐ 3 | 🐛 8 | 🌐 Go | 📅 2025-09-23 - SCION endhost autoconfiguration tool.
-* [step-scion-plugin](https://github.com/scionproto-contrib/step-scion-plugin) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2026-07-08 - SCION Control Plane PKI plugin for [smallstep/cli](https://github.com/smallstep/cli) ⭐ 4,332 | 🐛 196 | 🌐 Go | 📅 2026-09-25 :wrench: :construction:
+* [step-scion-plugin](https://github.com/scionproto-contrib/step-scion-plugin) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2026-07-08 - SCION Control Plane PKI plugin for [smallstep/cli](https://github.com/smallstep/cli) ⭐ 4,333 | 🐛 197 | 🌐 Go | 📅 2026-09-25 :wrench: :construction:
 * [Anapaya](https://www.anapaya.net) - Vendor of SCION infrastructure, both based on the open-source implementation and proprietary.
 
 ## Applications
@@ -84,7 +84,7 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 
 ## Tools
 
-* [SEED Emulator](https://github.com/seed-labs/seed-emulator/tree/master/examples/scion) ⭐ 287 | 🐛 32 | 🌐 Python | 📅 2026-09-23 - SEED Security Labs network emulator supports SCION.
+* [SEED Emulator](https://github.com/seed-labs/seed-emulator/tree/master/examples/scion) ⭐ 288 | 🐛 32 | 🌐 Python | 📅 2026-09-23 - SEED Security Labs network emulator supports SCION.
 * [scapy-scion-int](https://github.com/lschulz/scapy-scion-int) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-08-31 - [Scapy](https://scapy.net/) layers for SCION.
 * [tofino-pktgen](https://github.com/netsys-lab/scion-p4/tree/main/tofino-pktgen) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-02-25 - SCION packet generator for Intel Tofino 2 switches.
 * [ietf-scion-testbed](https://github.com/netsys-lab/ietf-scion-testbed) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2026-09-24 - Ansible/Proxmox deployment of a 12-AS SCION testbed with parallel BGP/IP routing, link shaping and a monitoring dashboard.
@@ -98,7 +98,7 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 ## Research
 
 * [Publications list](https://www.scion.org/research/)
-* [LightningFilter](https://github.com/netsec-ethz/lightning-filter) ⭐ 3 | 🐛 12 | 🌐 C | 📅 2025-03-26 - High-speed traffic filtering mechanism that performs authentication, rate limiting, and duplicate detection.
+* [LightningFilter](https://github.com/netsec-ethz/lightning-filter) ⭐ 2 | 🐛 12 | 🌐 C | 📅 2025-03-26 - High-speed traffic filtering mechanism that performs authentication, rate limiting, and duplicate detection.
 
 ## Operating System Support
 
@@ -114,4 +114,4 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
