@@ -460,7 +460,7 @@
                 "id": 1071621591,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T12:53:01Z",
+                "last_commit": "2026-10-02T10:06:51Z",
                 "open_issues": 0,
                 "owner": "Anapaya",
                 "repo": "scion-sdk",
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T08:57:09.493Z",
+    "last_updated": "2026-10-03T05:06:23.102Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A list of awesome SCION tools, applications, libraries etc. ",
