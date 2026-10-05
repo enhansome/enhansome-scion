@@ -464,7 +464,7 @@
                 "open_issues": 0,
                 "owner": "Anapaya",
                 "repo": "scion-sdk",
-                "stars": 28,
+                "stars": 29,
                 "topics": [
                   "internet",
                   "networking",
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T08:43:24.213Z",
+    "last_updated": "2026-10-05T09:34:13.107Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A list of awesome SCION tools, applications, libraries etc. ",
