@@ -16,7 +16,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-08T06:36:15Z",
-            "open_issues": 162,
+            "open_issues": 163,
             "owner": "scionproto",
             "repo": "scion",
             "stars": 568,
@@ -460,7 +460,7 @@
                 "id": 1071621591,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T10:06:51Z",
+                "last_commit": "2026-10-08T15:53:23Z",
                 "open_issues": 0,
                 "owner": "Anapaya",
                 "repo": "scion-sdk",
@@ -604,8 +604,8 @@
             "id": 296699554,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-08T00:35:02Z",
-            "open_issues": 32,
+            "last_commit": "2026-10-09T02:33:39Z",
+            "open_issues": 33,
             "owner": "seed-labs",
             "repo": "seed-emulator",
             "stars": 288,
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T09:25:12.686Z",
+    "last_updated": "2026-10-09T09:34:31.337Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A list of awesome SCION tools, applications, libraries etc. ",
