@@ -15,8 +15,8 @@
             "id": 21826148,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T06:36:15Z",
-            "open_issues": 163,
+            "last_commit": "2026-10-09T16:26:58Z",
+            "open_issues": 165,
             "owner": "scionproto",
             "repo": "scion",
             "stars": 568,
@@ -605,7 +605,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-10-09T02:33:39Z",
-            "open_issues": 33,
+            "open_issues": 34,
             "owner": "seed-labs",
             "repo": "seed-emulator",
             "stars": 288,
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T09:34:31.337Z",
+    "last_updated": "2026-10-10T08:54:57.977Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A list of awesome SCION tools, applications, libraries etc. ",
