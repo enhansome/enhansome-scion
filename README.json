@@ -604,8 +604,8 @@
             "id": 296699554,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-11T07:28:15Z",
-            "open_issues": 34,
+            "last_commit": "2026-10-11T12:13:51Z",
+            "open_issues": 33,
             "owner": "seed-labs",
             "repo": "seed-emulator",
             "stars": 288,
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T09:15:38.018Z",
+    "last_updated": "2026-10-12T09:41:53.510Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A list of awesome SCION tools, applications, libraries etc. ",
