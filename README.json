@@ -15,11 +15,11 @@
             "id": 21826148,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T12:35:12Z",
+            "last_commit": "2026-10-13T14:23:27Z",
             "open_issues": 166,
             "owner": "scionproto",
             "repo": "scion",
-            "stars": 568,
+            "stars": 569,
             "topics": [
               "internet",
               "networking",
@@ -139,7 +139,7 @@
             "open_issues": 40,
             "owner": "netsec-ethz",
             "repo": "scion-apps",
-            "stars": 32,
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-08-28T14:34:02.894Z"
@@ -460,7 +460,7 @@
                 "id": 1071621591,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T15:53:23Z",
+                "last_commit": "2026-10-13T19:20:00Z",
                 "open_issues": 0,
                 "owner": "Anapaya",
                 "repo": "scion-sdk",
@@ -604,7 +604,7 @@
             "id": 296699554,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-12T12:32:40Z",
+            "last_commit": "2026-10-14T03:22:26Z",
             "open_issues": 35,
             "owner": "seed-labs",
             "repo": "seed-emulator",
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T09:42:37.302Z",
+    "last_updated": "2026-10-14T07:58:50.612Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A list of awesome SCION tools, applications, libraries etc. ",
@@ -701,7 +701,7 @@
       "open_issues": 1,
       "owner": "scionproto",
       "repo": "awesome-scion",
-      "stars": 61,
+      "stars": 62,
       "topics": [
         "awesome",
         "awesome-list",
