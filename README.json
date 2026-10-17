@@ -19,7 +19,7 @@
             "open_issues": 166,
             "owner": "scionproto",
             "repo": "scion",
-            "stars": 576,
+            "stars": 579,
             "topics": [
               "internet",
               "networking",
@@ -430,8 +430,8 @@
                 "id": 678297728,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T16:00:05Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-16T12:08:49Z",
+                "open_issues": 10,
                 "owner": "scionproto-contrib",
                 "repo": "jpan",
                 "stars": 5,
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T07:29:05.525Z",
+    "last_updated": "2026-10-17T07:09:50.837Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A list of awesome SCION tools, applications, libraries etc. ",
