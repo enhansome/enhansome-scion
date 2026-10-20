@@ -15,8 +15,8 @@
             "id": 21826148,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T11:29:22Z",
-            "open_issues": 166,
+            "last_commit": "2026-10-20T07:45:43Z",
+            "open_issues": 167,
             "owner": "scionproto",
             "repo": "scion",
             "stars": 580,
@@ -464,7 +464,7 @@
                 "open_issues": 0,
                 "owner": "Anapaya",
                 "repo": "scion-sdk",
-                "stars": 29,
+                "stars": 30,
                 "topics": [
                   "internet",
                   "networking",
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T08:03:33.595Z",
+    "last_updated": "2026-10-20T07:54:02.012Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A list of awesome SCION tools, applications, libraries etc. ",
