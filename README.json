@@ -430,7 +430,7 @@
                 "id": 678297728,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T12:08:49Z",
+                "last_commit": "2026-10-20T15:44:54Z",
                 "open_issues": 10,
                 "owner": "scionproto-contrib",
                 "repo": "jpan",
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T07:54:02.012Z",
+    "last_updated": "2026-10-21T07:57:57.663Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A list of awesome SCION tools, applications, libraries etc. ",
