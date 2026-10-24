@@ -15,11 +15,11 @@
             "id": 21826148,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T00:06:11Z",
-            "open_issues": 168,
+            "last_commit": "2026-10-23T20:36:23Z",
+            "open_issues": 169,
             "owner": "scionproto",
             "repo": "scion",
-            "stars": 582,
+            "stars": 583,
             "topics": [
               "internet",
               "networking",
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T07:53:41.748Z",
+    "last_updated": "2026-10-24T07:34:06.415Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A list of awesome SCION tools, applications, libraries etc. ",
