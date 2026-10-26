@@ -15,8 +15,8 @@
             "id": 21826148,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T20:36:23Z",
-            "open_issues": 169,
+            "last_commit": "2026-10-26T06:36:20Z",
+            "open_issues": 166,
             "owner": "scionproto",
             "repo": "scion",
             "stars": 583,
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T07:47:06.763Z",
+    "last_updated": "2026-10-26T08:04:32.364Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A list of awesome SCION tools, applications, libraries etc. ",
