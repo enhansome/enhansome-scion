@@ -15,8 +15,8 @@
             "id": 21826148,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T10:36:06Z",
-            "open_issues": 169,
+            "last_commit": "2026-11-02T16:12:16Z",
+            "open_issues": 173,
             "owner": "scionproto",
             "repo": "scion",
             "stars": 586,
@@ -224,7 +224,7 @@
             "id": 855307267,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T10:24:36Z",
+            "last_commit": "2026-11-02T16:12:16Z",
             "open_issues": 1,
             "owner": "netsec-ethz",
             "repo": "scion-java-multiping",
@@ -310,7 +310,7 @@
             "id": 1178825459,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-14T12:53:54Z",
+            "last_commit": "2026-11-02T16:54:03Z",
             "open_issues": 1,
             "owner": "netsec-ethz",
             "repo": "jpan-cli",
@@ -430,7 +430,7 @@
                 "id": 678297728,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T09:47:41Z",
+                "last_commit": "2026-11-02T13:23:37Z",
                 "open_issues": 10,
                 "owner": "scionproto-contrib",
                 "repo": "jpan",
@@ -464,7 +464,7 @@
                 "open_issues": 0,
                 "owner": "Anapaya",
                 "repo": "scion-sdk",
-                "stars": 31,
+                "stars": 32,
                 "topics": [
                   "internet",
                   "networking",
@@ -608,7 +608,7 @@
             "open_issues": 35,
             "owner": "seed-labs",
             "repo": "seed-emulator",
-            "stars": 288,
+            "stars": 289,
             "topics": []
           },
           "first_seen": "2026-08-28T14:34:02.894Z"
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T09:53:56.576Z",
+    "last_updated": "2026-11-03T09:58:35.857Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A list of awesome SCION tools, applications, libraries etc. ",
