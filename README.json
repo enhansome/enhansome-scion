@@ -492,7 +492,7 @@
                 "id": 1001683632,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-05T23:47:45Z",
+                "last_commit": "2026-11-08T20:14:31Z",
                 "open_issues": 0,
                 "owner": "lschulz",
                 "repo": "scion-cpp",
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T09:26:48.671Z",
+    "last_updated": "2026-11-09T10:14:12.042Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A list of awesome SCION tools, applications, libraries etc. ",
