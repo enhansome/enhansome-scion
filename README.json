@@ -224,7 +224,7 @@
             "id": 855307267,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T16:37:41Z",
+            "last_commit": "2026-11-11T15:48:42Z",
             "open_issues": 1,
             "owner": "netsec-ethz",
             "repo": "scion-java-multiping",
@@ -460,7 +460,7 @@
                 "id": 1071621591,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T18:44:30Z",
+                "last_commit": "2026-11-11T10:06:49Z",
                 "open_issues": 0,
                 "owner": "Anapaya",
                 "repo": "scion-sdk",
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T09:48:16.555Z",
+    "last_updated": "2026-11-12T10:12:38.907Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A list of awesome SCION tools, applications, libraries etc. ",
