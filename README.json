@@ -19,7 +19,7 @@
             "open_issues": 177,
             "owner": "scionproto",
             "repo": "scion",
-            "stars": 587,
+            "stars": 588,
             "topics": [
               "internet",
               "networking",
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T09:20:47.002Z",
+    "last_updated": "2026-11-15T09:50:40.295Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A list of awesome SCION tools, applications, libraries etc. ",
