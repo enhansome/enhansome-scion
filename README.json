@@ -16,7 +16,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-19T06:49:11Z",
-            "open_issues": 177,
+            "open_issues": 176,
             "owner": "scionproto",
             "repo": "scion",
             "stars": 588,
@@ -492,7 +492,7 @@
                 "id": 1001683632,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-17T21:37:24Z",
+                "last_commit": "2026-11-19T22:44:29Z",
                 "open_issues": 0,
                 "owner": "lschulz",
                 "repo": "scion-cpp",
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T10:42:39.589Z",
+    "last_updated": "2026-11-20T10:24:45.834Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A list of awesome SCION tools, applications, libraries etc. ",
