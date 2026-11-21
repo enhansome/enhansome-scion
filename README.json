@@ -15,8 +15,8 @@
             "id": 21826148,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T06:49:11Z",
-            "open_issues": 176,
+            "last_commit": "2026-11-20T15:02:59Z",
+            "open_issues": 177,
             "owner": "scionproto",
             "repo": "scion",
             "stars": 588,
@@ -160,7 +160,7 @@
             "open_issues": 2,
             "owner": "netsys-lab",
             "repo": "bittorrent-over-scion",
-            "stars": 6,
+            "stars": 7,
             "topics": []
           },
           "first_seen": "2026-08-28T14:34:02.894Z"
@@ -492,7 +492,7 @@
                 "id": 1001683632,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-19T22:44:29Z",
+                "last_commit": "2026-11-20T19:50:07Z",
                 "open_issues": 0,
                 "owner": "lschulz",
                 "repo": "scion-cpp",
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T10:24:45.834Z",
+    "last_updated": "2026-11-21T10:08:09.213Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A list of awesome SCION tools, applications, libraries etc. ",
@@ -701,7 +701,7 @@
       "open_issues": 1,
       "owner": "scionproto",
       "repo": "awesome-scion",
-      "stars": 62,
+      "stars": 63,
       "topics": [
         "awesome",
         "awesome-list",
