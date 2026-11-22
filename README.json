@@ -608,7 +608,7 @@
             "open_issues": 36,
             "owner": "seed-labs",
             "repo": "seed-emulator",
-            "stars": 291,
+            "stars": 292,
             "topics": []
           },
           "first_seen": "2026-08-28T14:34:02.894Z"
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T10:08:09.213Z",
+    "last_updated": "2026-11-22T10:12:27.048Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A list of awesome SCION tools, applications, libraries etc. ",
