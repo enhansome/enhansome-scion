@@ -492,7 +492,7 @@
                 "id": 1001683632,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-20T19:50:07Z",
+                "last_commit": "2026-11-22T22:28:54Z",
                 "open_issues": 0,
                 "owner": "lschulz",
                 "repo": "scion-cpp",
@@ -625,7 +625,7 @@
             "id": 381298195,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-15T18:59:37Z",
+            "last_commit": "2026-11-22T22:28:22Z",
             "open_issues": 0,
             "owner": "lschulz",
             "repo": "scapy-scion-int",
@@ -689,7 +689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T10:12:27.048Z",
+    "last_updated": "2026-11-23T11:10:15.085Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A list of awesome SCION tools, applications, libraries etc. ",
