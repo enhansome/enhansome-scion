@@ -15,8 +15,8 @@
             "id": 21826148,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T11:01:03Z",
-            "open_issues": 178,
+            "last_commit": "2026-11-26T15:18:31Z",
+            "open_issues": 176,
             "owner": "scionproto",
             "repo": "scion",
             "stars": 588,
@@ -512,27 +512,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "pan-lua",
-              "description": "Lua-scriptable path selector interface to pan.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A RPC selector for the SCION PAN library, with a scriptable Lua backend",
-                "homepage": null,
-                "id": 549546350,
-                "language": "Go",
-                "license": "Apache-2.0",
-                "last_commit": "2024-04-02T20:23:48Z",
-                "open_issues": 1,
-                "owner": "netsys-lab",
-                "repo": "pan-lua",
-                "stars": 2,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T14:34:02.894Z"
-            },
-            {
-              "node_type": "item",
               "title": "pan-bindings",
               "description": "C, C++, and Python bindings for pan.",
               "children": [],
@@ -689,7 +668,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T11:26:23.207Z",
+    "last_updated": "2026-11-27T11:20:53.173Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A list of awesome SCION tools, applications, libraries etc. ",
